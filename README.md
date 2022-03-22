@@ -1,4 +1,4 @@
 # Suwit-Jepang
 Batu Gunting Kertas
 
-result : https://suwit-jeapanese.netlify.app/
+result : https://suwit-japanese.netlify.app/
